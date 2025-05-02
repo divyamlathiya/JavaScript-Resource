@@ -1,1 +1,3 @@
-# JavaScript-Resource-
+# JavaScript-Resource
+
+Author - **Divyam Lathiya**
