@@ -21,7 +21,7 @@ function getJokes() {
     })
     .then((data) => {
       console.log(data);
-      jokePara.innerText = `${data.setup} - ${data.punchline}`;
+      jokePara.innerText = `${data.id} - ${data.type}\n ${data.setup} - ${data.punchline}`;
     });
 }
 
