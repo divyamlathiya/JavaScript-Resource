@@ -1,0 +1,11 @@
+.content {
+    height: 100px;
+    width: 100px;
+    background-color: antiquewhite;
+    color: black;
+    border: 2px solid black;
+}
+
+.newClass {
+    background-color: cadetblue;
+}
