@@ -79,3 +79,4 @@ let factorial = arr1.reduce((res, curr) => {
 });
 console.log("Factorial:", factorial);
 
+
