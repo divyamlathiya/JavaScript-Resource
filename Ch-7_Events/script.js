@@ -61,3 +61,4 @@ btn2.addEventListener("click", () => {
     console.log("Button2 is clicked! Handler3");
 });
 
+
